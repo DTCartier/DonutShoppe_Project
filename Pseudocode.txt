@@ -1,0 +1,16 @@
+Donut Shoppe pseudocode 
+
+User chooses a selection from the donut and coffee option
+
+The subtotal is calculated from the sum of donut and coffee selected in the SubTotalCalc
+Sub Procedure and displays through the lblSubTotalOut.Text and the calc is stored in
+decSubtotal
+
+The sales tax is then calculated from tax = .06 times the subtotal which is a parameter
+for the SalesTaxCalc function and the calc is stored in decSalesTax.
+
+Then the Sales Tax and Subtotal are passed to the decTotal variable which displays through
+the lblTotalDueOut.Text.
+
+When any donut or coffee selection is changed, ClearLabel Sub Procedure activates and clears
+all output labels.

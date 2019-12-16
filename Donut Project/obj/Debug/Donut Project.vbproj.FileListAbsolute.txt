@@ -1,0 +1,11 @@
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\bin\Debug\Donut Project.exe.config
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\bin\Debug\Donut Project.exe
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\bin\Debug\Donut Project.pdb
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\bin\Debug\Donut Project.xml
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut Project.vbprojAssemblyReference.cache
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut_Project.frmMain.resources
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut_Project.Resources.resources
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.GenerateResource.cache
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut Project.exe
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut Project.xml
+C:\Users\darry\OneDrive\Desktop\MIS1150\Donut Solution\Donut Project\obj\Debug\Donut Project.pdb
